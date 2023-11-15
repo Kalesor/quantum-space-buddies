@@ -1,0 +1,127 @@
+{
+  "Language": "POLISH",
+  "MainMenuHost": "ZAŁÓŻ GRĘ",
+  "MainMenuConnect": "DOŁĄCZ DO GRY",
+  "PauseMenuDisconnect": "ROZŁĄCZ",
+  "PauseMenuStopHosting": "WYŁĄCZ TRYB WIELOOSOBOWY",
+  "PublicIPAddress": "Adres IP\n\n(TWÓJ POSTĘP W TRYBIE WIELOOSOBOWYM ZOSTANIE NADPISANY)",
+  "SteamID": "Steam ID\n\n(TWÓJ POSTĘP W TRYBIE WIELOOSOBOWYM ZOSTANIE NADPISANY)",
+  "Connect": "POŁĄCZ",
+  "Cancel": "ANULUJ",
+  "HostExistingOrNewOrCopy": "Czy chcesz wczytać ekspedycję dla wielu graczy, rozpocząć nową ekspedycję dla wielu graczy albo skopiować istniejącą ekspedycję jednoosobową jako ekspedycję dla wielu graczy?",
+  "HostNewOrCopy": "Czy chcesz rozpocząć nową ekspedycję dla wielu graczy albo skopiować istniejącą ekspedycję jednoosobową jako ekspedycję dla wielu graczy?",
+  "HostExistingOrNew": "Czy chcesz wczytać ekspedycję dla wielu graczy albo rozpocząć nową ekspedycję dla wielu graczy?",
+  "ExistingSave": "ISTNIEJĄCY ZAPIS",
+  "NewSave": "NOWY ZAPIS",
+  "CopySave": "WCZYTAJ ZAPIS",
+  "DisconnectAreYouSure": "Czy na pewno chcesz się rozłączyć?\nSpowoduje to powrót do menu głównego.",
+  "Yes": "TAK",
+  "No": "NIE",
+  "StopHostingAreYouSure": "Czy na pewno chcesz zamknąć serwer?\nSpowoduje to rozłączenie wszystkich graczy i przywróci ich do menu głównego.",
+  "CopySteamIDToClipboard": "Serwer otwarty.\nInni gracze mogą dołączyć używająć Twojego Steam ID :\n{0}\nCzy chcesz skopiować Twój Steam ID do schowka?",
+  "Connecting": "ŁĄCZENIE",
+  "OK": "OK",
+  "ServerRefusedConnection": "Serwer odrzucił połączenie.\n{0}",
+  "ClientDisconnectWithError": "Błąd połączenia klienta!\n{0}",
+  "QSBVersionMismatch": "Różne wersje QSB. (Klient:{0}, Serwer:{1})",
+  "OWVersionMismatch": "Różne wersje Outer Wilds. (Klient:{0}, :{1})",
+  "DLCMismatch": "Różny status DLC. (Klient:{0}, Serwer:{1})",
+  "GameProgressLimit": "Różnica postępów w grze.",
+  "AddonMismatch": "Różnica wtyczek do QSB. (Klient:{0} addons, Serwer:{1} addons)",
+  "IncompatibleMod": "Niekompatybilny lub niedozwolony mod. Pierwszy znaleziony mod: {0}",
+  "PlayerJoinedTheGame": "Gracz {0} dołączył do gry!",
+  "PlayerLeftTheGame": "Gracz {0} opuścił grę!",
+  "PlayerWasKicked": "Gracz {0} został wyrzucony.",
+  "KickedFromServer": "Wyrzucono z serwera. Powód: {0}",
+  "RespawnPlayer": "Odrodź gracza",
+  "TimeSyncTooFarBehind": "{0}\nZrówynywanie czasu z czasem serwera...",
+  "TimeSyncWaitingForStartOfServer": "Oczekiwanie na start serwera...",
+  "TimeSyncTooFarAhead": "{0}\nZrówynywanie czasu z czasem serwera...",
+  "TimeSyncWaitForAllToReady": "Oczekiwanie na start cyklu...",
+  "TimeSyncWaitForAllToDie": "Oczekiwanie na koniec cyklu...",
+  "GalaxyMapEveryoneNotPresent": "Bez pośpiechu. Wszyscy powinni to zobaczyć.",
+  "YouAreDead": "Nie żyjesz.",
+  "WaitingForRespawn": "Oczekiwanie na wskrzeszenie przez innego gracza...",
+  "WaitingForAllToDie": "Oczekiwanie na śmierć {0} graczy...",
+  "AttachToShip": "Przymocuj się do statku",
+  "DetachFromShip": "Odłącz się od statku",
+  "DeathMessages": {
+    "Default": [
+      "{0} nie żyje.",
+      "Coś dopadło {0}."
+    ],
+    "Impact": [
+      "{0} zapomniał/a użyć rakiet wstecznych.",
+      "{0} za mocno puknął/ęła w ziemię.",
+      "{0} za mocno zderzył/a się z ziemią.",
+      "{0} rozpłaszczyło.",
+      "{0} umarł/a z powodu uderzenia.",
+      "{0} zbyt mocno uderzył/a w ziemię."
+    ],
+    "Asphyxiation": [
+      "{0} zapomniał/a o oddychaniu.",
+      "{0} udusił/a się.",
+      "{0} umarł/a przed uduszenie.",
+      "{0} zapomniał/a jak się oddycha.",
+      "{0} nie upilnował/a tlenu.",
+      "{0} skończyło się powietrze.",
+      "{0} skończył się tlen.",
+      "{0} i tak nie potrzebował/a powietrza."
+    ],
+    "Energy": [
+      "{0} jest ugotowany/a."
+    ],
+    "Supernova": [
+      "{0} skończył się czas.",
+      "{0} spalił/a się.",
+      "{0} jest ugotowany/a.",
+      "{0} wyparował/a.",
+      "{0} stracił/a poczucie czasu."
+    ],
+    "Digestion": [
+      "{0} zjedzono.",
+      "{0} znalazł/a rybę.",
+      "{0} spotkał/a złe istotę.",
+      "{0} zadarł/a ze złą rybą.",
+      "{0} przetrawiono.",
+      "{0} umarł/a w wyniku trawienia."
+    ],
+    "Crushed": [
+      "{0} zgnieciono.",
+      "{0} zmiażdżono.",
+      "{0} pogrebano.",
+      "{0} nie zdążył/a uciec.",
+      "{0} dał/a nura w piasek.",
+      "{0} nie docenił/a piasku.",
+      "{0} utkwił/a pod piaskiem."
+    ],
+    "Lava": [
+      "{0} umarł/a w lawie.",
+      "{0} roztopiło",
+      "{0} próbował/a pływać w lawie.",
+      "{0} wpadł/a do lawy.",
+      "{0} umarł/a od lawy.",
+      "{0} dał/a nura do lawy.",
+      "{0} przypaliła lawa."
+    ],
+    "BlackHole": [
+      "{0} ścigał/a swoje wspomnienia."
+    ],
+    "DreamExplosion": [
+      "{0} wybuchł/a.",
+      "{0} był/a wczesnym nabywcą.",
+      "{0} wysadziło.",
+      "{0} usmażyło.",
+      "{0} umarł/a od wybuchu.",
+      "{0} użył/a nie tego artefaktu."
+    ],
+    "CrushedByElevator": [
+      "{0} zgnieciono.",
+      "{0} zmiażdżono.",
+      "{0} zgniotła winda.",
+      "{0} stał/a pod windą.",
+      "{0} wypłaszczył/a się.",
+      "{0} zmiażdżyła winda."
+    ]
+  }
+}
